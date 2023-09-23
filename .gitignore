@@ -1,0 +1,7 @@
+*__pycache__*
+migrations
+
+# transaction file
+*transaction-details*
+
+db.sqlite3
